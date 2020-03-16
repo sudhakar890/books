@@ -1,6 +1,6 @@
 # Books
 
-> Simple RESTful API to create, read, update and delete books. No database implementation yet
+> Simple RESTful API in Go to create, read, update and delete books. No database implementation yet
 
 ## Endpoints
 
